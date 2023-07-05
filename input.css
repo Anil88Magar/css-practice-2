@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+
+.btn {
+  background-color: limegreen;
+  padding: 5px 90px;
+  outline: none;
+
+  display: block;
+}
+@tailwind utilities;
